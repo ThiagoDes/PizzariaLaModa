@@ -1,2 +1,2 @@
-# PizzariaLaModa.github.io
+# Pizzaria La Moda
 Projeto de didático de uma página de pedido de uma pizzaria.
